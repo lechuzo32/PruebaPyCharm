@@ -25,5 +25,5 @@ Nota: En este caso la carpeta se creará en el directorio <b><i>C:\Users\nombreu
 
 Saludos.
 
-<b><i>Prof. Enrique Vallejo</i></b>
+<b><i>Prof. Enrique Vallejo</i></b></br>
 San Luis, 12/11/2023
