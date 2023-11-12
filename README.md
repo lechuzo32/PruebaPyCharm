@@ -21,3 +21,9 @@ Nota: En este caso la carpeta se creará en el directorio <b><i>C:\Users\nombreu
 
 4-) Ahora crear el archivo de Python PruebaPyCharm: <b>touch PrubaPyCharm.py</b>
 
+5-) Ahora se puede abrir el archivo <i>PruebaPyCharm.py</i> directamente desde <b>PyCharm</b>.
+
+Saludos.
+
+<b><i>Prof. Enrique Vallejo</i></b>
+San Luis, 12/11/2023
