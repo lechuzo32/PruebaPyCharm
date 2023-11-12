@@ -15,5 +15,5 @@ Estos comandos deben ingresarse en la pantalla BASH.
 
 Nota: En este caso la carpeta se creará en C:\Users\nombreusuario\PruebaPyCharm
 
-4-) Ahora crear el archivo de Python PruebaPyCharm: touch PrubaPyCharm.py
+4-) Ahora crear el archivo de Python PruebaPyCharm: ##touch PrubaPyCharm.py##
 
