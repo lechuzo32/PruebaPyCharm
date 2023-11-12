@@ -10,7 +10,7 @@ La siguiente es la secuencia de comandos para inicializar un repositorio denomin
 Estos comandos deben ingresarse en la pantalla BASH.
 
 2-) Para clonar el directorio:
-    <b>git clone <i>https://github.com/lechuzo32/PruebaPyCharm</i></b>
+    <b>git clone</b> <i>https://github.com/lechuzo32/PruebaPyCharm</i>
 
 3-) Crear el directorio Prueba PyCharm, dentro del directorio raíz en el que Ud quiera almacenar a PruebaPyCharm.
     <b>cd PruebaPyCharm</b>
