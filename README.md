@@ -12,7 +12,7 @@ Estos comandos deben ingresarse en la pantalla BASH.
 2-) Para clonar el directorio:
     <b>git clone</b> <i>https://github.com/lechuzo32/PruebaPyCharm</i>
 
-3-) Crear el directorio Prueba PyCharm, dentro del directorio raíz en el que Ud quiera almacenar a PruebaPyCharm.<7br>
+3-) Crear el directorio Prueba PyCharm, dentro del directorio raíz en el que Ud quiera almacenar a PruebaPyCharm.</br>
     <b>cd PruebaPyCharm</b>
 
 Nota: En este caso la carpeta se creará en el directorio <b><i>C:\Users\nombreusuario\PruebaPyCharm</i></b>
